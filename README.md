@@ -1,5 +1,5 @@
 # Tic_Tac_Toe-Game
- Tic_Tac_Toe-Game made using cpp 
+
 OBJECTIVE:
 This project aims to develop a Tic Tac Toe game using cpp. It mainly consists of developing and implementing a program that plays Tic Tac Toe against another player.
 In order to understand what Tic Tac Toe game is and how to play the game, below is the description.
